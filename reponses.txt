@@ -1,6 +1,7 @@
 1)
 C'est un projet construit avec Maven.
-Le projet contient des ressources images au format PNG
+La licence de ce projet est MIT.
+Le premier commit date du 10 juillet 2019.
 2)
 3
 3)

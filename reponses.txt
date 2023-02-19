@@ -14,7 +14,7 @@ Main
 6)
 Un compte à rebours s'affiche mais ne semble pas s'arrêter à 0.
 7)
-Un lapin
+Un lapin.
 8)
 Une pull request dans GitHub, puis un commit, puis un push.
 9)
